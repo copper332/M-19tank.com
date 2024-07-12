@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+#poc{
+    text-align: center;
+    font-weight: bolder;
+}
+#pocs{
+    text-align: center;
+    font-weight: bolder;
+}
+#poc1{
+    color: rgb(49, 49, 250);
+}
+body{
+    font-size: 19px;
+}
